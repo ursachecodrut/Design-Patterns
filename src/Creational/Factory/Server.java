@@ -1,4 +1,4 @@
-package Factory;
+package Creational.Factory;
 
 public class Server extends Computer {
     private String ram;
